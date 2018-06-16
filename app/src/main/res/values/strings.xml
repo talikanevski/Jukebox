@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jukebox</string>
+    <string name="favorites">Favorites</string>
+    <string name="done">Done</string>
+    <string name="play_random">PLAY RANDOM</string>
+    <string name="choose_some_songs_you_like">choose some songs you like</string>
+</resources>
