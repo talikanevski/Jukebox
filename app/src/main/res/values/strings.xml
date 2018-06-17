@@ -4,4 +4,22 @@
     <string name="done">Done</string>
     <string name="play_random">PLAY RANDOM</string>
     <string name="choose_some_songs_you_like">choose some songs you like</string>
+    <string name="hello">Hello</string>
+    <string name="adele">Adele</string>
+    <string name="utopia">Utopia</string>
+    <string name="bjork">Bjork</string>
+    <string name="silence">Enjoy The Silence</string>
+    <string name="depeche_mode">Depeche Mode</string>
+    <string name="everybody_nneds_somebody">Everybody Needs somebody</string>
+    <string name="the_rolling_stones">The Rolling Stones</string>
+    <string name="hard_days_noght">A Hard Day\'s Night</string>
+    <string name="the_beatles">The Beatles</string>
+    <string name="fire">Light My Fire</string>
+    <string name="the_doors">The Doors</string>
+    <string name="i_wish">I Wish</string>
+    <string name="infected_mushrooms">Infected Mushrooms</string>
+    <string name="thunder">Thunder</string>
+    <string name="imagine_dragons">Imagine Dragons</string>
+    <string name="i_was_born_to_love_you">I was born to love you</string>
+    <string name="freddie">Freddie Mercury</string>
 </resources>

@@ -30,7 +30,7 @@
             android:layout_marginBottom="20dp"
             android:layout_weight="1"
             android:text="@string/play_random"
-            android:textSize="20dp" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 
@@ -61,7 +61,7 @@
             android:layout_height="wrap_content"
             android:text="@string/choose_some_songs_you_like"
             android:textAllCaps="true"
-            android:textSize="20dp" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 
@@ -89,7 +89,7 @@
             android:layout_height="wrap_content"
             android:text="@string/favorites"
             android:textAllCaps="true"
-            android:textSize="20dp" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 

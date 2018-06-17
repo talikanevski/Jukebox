@@ -73,15 +73,15 @@ public class MainActivity extends AppCompatActivity {
         });
 
         /** Create an ArrayList of Song objects**/
-        songs.add(new Song("Hello", "Adele", R.drawable.adele, 0));
-        songs.add(new Song("Utopia", "Bjork", R.drawable.bjork, 0));
-        songs.add(new Song("Enjoy The Silence", "Depeche Mode", R.drawable.depeche_mode, 0));
-        songs.add(new Song("Everybody Needs somebody", "The Rolling Stones", R.drawable.the_rolling_stones, 0));
-        songs.add(new Song("A Hard Day's Night", "The Beatles", R.drawable.the_beatles, 0));
-        songs.add(new Song("Light My Fire", "The Doors", R.drawable.the_doors, 0));
-        songs.add(new Song("I Wish", "Infected Mushrooms", R.drawable.infected_mushrooms, 0));
-        songs.add(new Song("Thunder", "Imagine Dragons ", R.drawable.imagine_dragons, 0));
-        songs.add(new Song("I was born to love you", "Freddie Mercury", R.drawable.freddie_mercury, 0));
+        songs.add(new Song(getString(R.string.hello), getString(R.string.adele), R.drawable.adele, 0));
+        songs.add(new Song(getString(R.string.utopia), getString(R.string.bjork), R.drawable.bjork, 0));
+        songs.add(new Song(getString(R.string.silence), getString(R.string.depeche_mode), R.drawable.depeche_mode, 0));
+        songs.add(new Song(getString(R.string.everybody_nneds_somebody), getString(R.string.the_rolling_stones), R.drawable.the_rolling_stones, 0));
+        songs.add(new Song(getString(R.string.hard_days_noght), getString(R.string.the_beatles), R.drawable.the_beatles, 0));
+        songs.add(new Song(getString(R.string.fire), getString(R.string.the_doors), R.drawable.the_doors, 0));
+        songs.add(new Song(getString(R.string.i_wish), getString(R.string.infected_mushrooms), R.drawable.infected_mushrooms, 0));
+        songs.add(new Song(getString(R.string.thunder), getString(R.string.imagine_dragons), R.drawable.imagine_dragons, 0));
+        songs.add(new Song(getString(R.string.i_was_born_to_love_you), getString(R.string.freddie), R.drawable.freddie_mercury, 0));
 
     }
 }
