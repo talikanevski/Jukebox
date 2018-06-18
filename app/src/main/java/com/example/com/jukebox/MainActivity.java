@@ -82,7 +82,6 @@ public class MainActivity extends AppCompatActivity {
         songs.add(new Song(getString(R.string.i_wish), getString(R.string.infected_mushrooms), R.drawable.infected_mushrooms, 0));
         songs.add(new Song(getString(R.string.thunder), getString(R.string.imagine_dragons), R.drawable.imagine_dragons, 0));
         songs.add(new Song(getString(R.string.i_was_born_to_love_you), getString(R.string.freddie), R.drawable.freddie_mercury, 0));
-
     }
 }
 
